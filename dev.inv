@@ -1,2 +1,2 @@
 [webservers]
-192.168.1.106 ansible_user=ind-chn-lt12387\dt390
+172.31.88.112 ansible_user=ubuntu
